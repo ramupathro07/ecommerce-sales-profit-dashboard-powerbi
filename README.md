@@ -81,7 +81,6 @@ Ecommerce-Profit-Sales-Dashboard/
 - End-to-End Power BI Dashboard Development
 - Advanced DAX and Business Logic Implementation
 - Data Modeling & ETL Processes
-- Interactive Visualization & UI/UX Design
 - Business Intelligence & Performance Analytics
 
 ## Final Thoughts
