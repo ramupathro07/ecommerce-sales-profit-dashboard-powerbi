@@ -61,12 +61,12 @@ The dashboard transforms complex transactional data into clear, interactive, and
 
 ## Project Structure
 ```
-Ecommerce-Profit-Sales-Dashboard/
-├── Ecommerce_Profit_Sales_Analysis_Dashboard.pbix     # Main Power BI Dashboard File
-├── ecommerce_data.csv                                 # Main Sales Dataset
-├── us_state_long_lat_codes.csv                        # Latitude & Longitude data for Map
-├── Screenshot.png                                     # Dashboard Preview Image
-├── README.md                                          # Project Documentation (You are here)
+data/
+├── ecommerce_data.csv
+├── us_state_long_lat_codes.csv
+├── Ecommerce_Profit_Sales_Analysis_Dashboard.pbix
+├── README.md
+└── Screenshot.png                                       # Project Documentation (You are here)
 ```
 
 ## How to Use
