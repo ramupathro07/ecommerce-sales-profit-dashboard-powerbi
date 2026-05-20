@@ -61,9 +61,10 @@ The dashboard transforms complex transactional data into clear, interactive, and
 
 ## Project Structure
 ```
-data/
-├── ecommerce_data.csv
-├── us_state_long_lat_codes.csv
+Ecommerce_Sales_Analysis/
+├── data/
+│   ├── ecommerce_data.csv
+│   └── us_state_long_lat_codes.csv
 ├── Ecommerce_Profit_Sales_Analysis_Dashboard.pbix
 ├── README.md
 └── Screenshot.png                                       # Project Documentation (You are here)
